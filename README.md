@@ -33,7 +33,7 @@ José Miguel Heras</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://">
+        <a style="margin-left: 10px;"  target="_blank" href="https:/https://www.linkedin.com/in/jos%C3%A9-miguel-heras-s%C3%A1nchez-a37a2639a//">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
