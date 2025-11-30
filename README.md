@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋,Me llamo <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-José Miguel Heras</a></h1>
+<h1 align="center">Hola 👋,Me llamo
+José Miguel Heras</h1>
 <h3 align="center">Soy estudiante de SMX</h3>
 
 <br><br>
