@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,Me llamo <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Adam</a></h1>
+José Miguel Heras</a></h1>
 <h3 align="center">Soy estudiante de SMX</h3>
 
 <br><br>
@@ -24,9 +24,9 @@ Adam</a></h1>
 
 - 💬 Preguntame sobre el trabajo en equipo
 
-- 📫 Escribeme a **sanchezelmoussaoui@fpllefia.com**
+- 📫 Escribeme a **herassanchezjosemiguel@fpllefia.com**
 
-- 📄 Proyectos <a href="https://asdiz10.github.io/miniprojecte3/" target="blank">Maquetación de página de prueba</a>
+- 📄 Proyectos <a href="https://jomi1010.github.io/mini-proyecta-2/" target="blank">Maquetación de página de prueba</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacta conmigo 🤝 </h3>
 
